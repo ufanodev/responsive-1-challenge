@@ -17,7 +17,7 @@
 }
 
 body {
-  margin: 0 auto;
+  margin: 0;
   font-family: sans-serif;
 }
 
@@ -28,6 +28,6 @@ body {
   width: 80%;
   margin: 0 auto;
 
-  padding: 5em;
-  /* height: 300px; */
+  padding: 2em;
+  height: 300px;
 }
